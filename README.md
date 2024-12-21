@@ -5,7 +5,13 @@ This repository contains three components:
 1. University Lab Report (PDF): A lab report detailing the measurement of the lifetime of muons, conducted as part of a university project.
 2. MC_AREA.py: A Python script used to calculate the effective area of the muon detector, using a Monte Carlo simulation. Additionally, the script shows the convergence of the effective area. 
 3. MC_DETECTOR_3D.py: A second Python script that provides a visual representation of muon generation. The top orange circle represents the muon generation point, while the red lines illustrate the trajectories of the generated muons.
-## Script requirements
-numpy 2.2.0
 
+Requirements:
+```
+numpy 2.2.0
 matplotlib 3.6.1
+```
+
+
+
+
